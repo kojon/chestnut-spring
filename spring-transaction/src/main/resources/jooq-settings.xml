@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings xmlns="http://www.jooq.org/xsd/jooq-runtime-3.10.2.xsd">
+    <renderSchema>true</renderSchema>
+    <renderCatalog>true</renderCatalog>
+    <renderKeywordStyle>UPPER</renderKeywordStyle>
+    <executeLogging>true</executeLogging>
+    <queryTimeout>30</queryTimeout>
+    <fetchSize>20</fetchSize>
+</settings>
